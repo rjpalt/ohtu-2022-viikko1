@@ -6,7 +6,8 @@ class TestVarasto(unittest.TestCase):
 
     def test_konstruktori_virheellinen_saldo_nollataan(self):
         vararasto = Varasto (10, -5)
-        self.assertAlmostEqual(vararasto.saldo, 0)
+        self.assertAlmostEqual(vararasto.saldo, 2)
+        ## Pitää olla 0
 
 
 
