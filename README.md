@@ -1,2 +1,3 @@
 # ohtu-2022-viikko1
-Unnecessary shit here
+
+![GitHub Actions](https://github.com/rjpalt/ohtu-2022-viikko1/workflows/CI/badge.svg)
